@@ -14,6 +14,9 @@ Projeto criado para as matérias de Front-end e Back-end Frameworks.
 
 - [Figma](/) In Progress
 
+## Funcionamento
+- O usuário tera que importar para o front-end o node, pois a pasta está sem.
+
 ## :game_die: Estrutura de dados
 - Usuário
   - as informações de cadastro do usuário no site
