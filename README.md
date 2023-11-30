@@ -4,7 +4,7 @@
 Projeto criado para as matérias de Front-end e Back-end Frameworks.
 
 ## :books: Contextualização
-* <b>Contextualização </b>: A aplicação em si será um site de receitas, que terá como funcionalidades pricipais: disponibilizar Receitas para a visualização, Adição de favoritos, e acessar suas informaçoẽs.
+* <b>Contextualização </b>: A aplicação em si será um site de receitas, que terá como funcionalidades pricipais: disponibilizar Receitas para a visualização e acessar suas informaçoẽs.
 
 ## :wrench: Tecnologias utilizadas
 * React Native (Node js)
