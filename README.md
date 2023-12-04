@@ -78,3 +78,5 @@ Projeto criado para as matérias de Front-end e Back-end Frameworks.
 
 ## :dart: Status do projeto
 * em fase de desenvolvimento
+* O banco de dados será feito pelo postgresql.
+* O Back e o front já estão juntos no arquivo, precisamos fazer os dois funcionar juntos
